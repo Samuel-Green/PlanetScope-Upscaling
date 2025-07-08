@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "Kannenberg Sites Unbuffered NAD 83 CRS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32143" } },
+"features": [
+{ "type": "Feature", "properties": { "Site": "AR1", "Latitude": 37.69652, "Longitude": -109.38588, "Elevation": 2016.47 }, "geometry": { "type": "Point", "coordinates": [ 686542.748028826666996, 1931491.810614780057222, 2016.47 ] } },
+{ "type": "Feature", "properties": { "Site": "AR2", "Latitude": 37.681, "Longitude": -109.37517, "Elevation": 1974.0 }, "geometry": { "type": "Point", "coordinates": [ 687528.527496527065523, 1929791.101266660029069, 1974.0 ] } },
+{ "type": "Feature", "properties": { "Site": "AR3", "Latitude": 37.65923, "Longitude": -109.36428, "Elevation": 1923.39 }, "geometry": { "type": "Point", "coordinates": [ 688547.175536933355033, 1927396.970921009778976, 1923.3900000000001 ] } },
+{ "type": "Feature", "properties": { "Site": "AR4", "Latitude": 37.64053, "Longitude": -109.35065, "Elevation": 1891.27 }, "geometry": { "type": "Point", "coordinates": [ 689800.139740632846951, 1925349.609899244969711, 1891.27 ] } },
+{ "type": "Feature", "properties": { "Site": "CM1", "Latitude": 37.53541, "Longitude": -109.71306, "Elevation": 1811.59 }, "geometry": { "type": "Point", "coordinates": [ 658035.117463875096291, 1912972.934766603866592, 1811.59 ] } },
+{ "type": "Feature", "properties": { "Site": "CM2", "Latitude": 37.53461, "Longitude": -109.73476, "Elevation": 1840.5 }, "geometry": { "type": "Point", "coordinates": [ 656117.994755342020653, 1912845.995324990246445, 1840.5 ] } },
+{ "type": "Feature", "properties": { "Site": "CM3", "Latitude": 37.55447, "Longitude": -109.77985, "Elevation": 2029.36 }, "geometry": { "type": "Point", "coordinates": [ 652088.31095399602782, 1914973.630505494307727, 2029.36 ] } },
+{ "type": "Feature", "properties": { "Site": "CM4", "Latitude": 37.58076, "Longitude": -109.88521, "Elevation": 2104.41 }, "geometry": { "type": "Point", "coordinates": [ 642721.164504793705419, 1917719.344982670852914, 2104.409999999999854 ] } },
+{ "type": "Feature", "properties": { "Site": "MD1", "Latitude": 37.49013, "Longitude": -109.89755, "Elevation": 2025.72 }, "geometry": { "type": "Point", "coordinates": [ 641810.949114009621553, 1907635.568421164527535, 2025.72 ] } },
+{ "type": "Feature", "properties": { "Site": "MD2", "Latitude": 37.37107, "Longitude": -109.93587, "Elevation": 1983.59 }, "geometry": { "type": "Point", "coordinates": [ 638651.362395937787369, 1894353.503570415079594, 1983.59 ] } },
+{ "type": "Feature", "properties": { "Site": "MD3", "Latitude": 37.34885, "Longitude": -109.91456, "Elevation": 1977.79 }, "geometry": { "type": "Point", "coordinates": [ 640583.925263641052879, 1891919.060133041115478, 1977.79 ] } },
+{ "type": "Feature", "properties": { "Site": "MD4", "Latitude": 37.30025, "Longitude": -109.92959, "Elevation": 1969.87 }, "geometry": { "type": "Point", "coordinates": [ 639346.101755533483811, 1886498.031087123556063, 1969.869999999999891 ] } }
+]
+}
